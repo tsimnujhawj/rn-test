@@ -75,6 +75,9 @@
       </list>
     </option>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2b6aa3a3-5136-4de8-b303-69d31f2e4278" name="Default Changelist" comment="" />
